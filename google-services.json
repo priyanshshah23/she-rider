@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267286083545",
+    "project_id": "she-rider",
+    "storage_bucket": "she-rider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267286083545:android:08206ee3f3a9221b970bc8",
+        "android_client_info": {
+          "package_name": "com.sherider.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267286083545-77t7onncveiapra4kvrvdas15golurtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsrxWYE-jSwyQfyEvge9R_tM2p-mwXDKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267286083545-77t7onncveiapra4kvrvdas15golurtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
